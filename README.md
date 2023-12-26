@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kaamava 👨‍💻</h1>
+<h1 align="center">Hi 👋, I'm Josh Li 👨‍💻</h1>
 <h3 align="center">A passionate AI engineer from Soochow University.</h3>
 
 <p align="center">
