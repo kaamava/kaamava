@@ -6,7 +6,7 @@
 <a title="github" target="_blank" href="https://github.com/kaamava"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dkaamava&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
 </p>
 
-<p align="center">  How to reach me 📫 liyanshu0423@163.com 📫
+<p align="center">  How to reach me 📫 yanshu_li1@brown.edu 📫
 
 
 <p align="center"><img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"/> </div>
