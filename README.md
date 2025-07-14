@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh Li 👨‍💻</h1>
-<h3 align="center">A passionate AI engineer from Soochow University.</h3>
+<h3 align="center">A passionate AI engineer from Brown University.</h3>
 
 <p align="center">
 <a title="Portfolio" target="_blank" href="https://kaamava.github.io/"><img src="https://hits.b3log.org/codeman008/codeman008.svg" ></a>
